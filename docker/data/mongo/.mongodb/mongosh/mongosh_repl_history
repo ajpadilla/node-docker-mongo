@@ -1,0 +1,6 @@
+db.personas.find();
+show collections;
+db.listCollections()
+db.listCollections();
+use mydatabase;
+show dbs;
